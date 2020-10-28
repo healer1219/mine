@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--注册一个Person对象，spring会自动创建这个person对象-->
+    <!--
+        一个bean标签可以注册一个组件（类或者是对象）
+        class：写组件的全类名
+        id：这个对象的唯一标识
+
+    -->
+    <bean id="Person01" class="com.healer.bean.Person">
+        <!--使用property标签对这个对象的属性赋值-->
+    <property name="lastName" value="zhangsan" ></property>
+    <property name="age" value="18"></property>
+    <property name="email" value="zhangsan@123.com"></property>
+    <property name="gender" value="男"></property>
+    </bean>
+    <bean id="Person02" class="com.healer.bean.Person">
+        <!--使用property标签对这个对象的属性赋值-->
+        <property name="lastName" value="Lisi" ></property>
+        <property name="age" value="18"></property>
+        <property name="email" value="Lisi@123.com"></property>
+        <property name="gender" value="男"></property>
+    </bean>
+</beans>

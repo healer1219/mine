@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc5babf-1ee4-4f3d-9ffe-5a2f7014ad9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jVaSPJ1P8W65BGqVhikFPLsRQd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spring workspace\1.SpringIOC_1\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PersonTest.getPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1.SpringIOC_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healer.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healer.test" />
+      <option name="MAIN_CLASS_NAME" value="com.healer.test.PersonTest" />
+      <option name="METHOD_NAME" value="getPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonTest.getPerson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc5babf-1ee4-4f3d-9ffe-5a2f7014ad9a" name="Default Changelist" comment="" />
+      <created>1603891711288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603891711288</updated>
+      <workItem from="1603891715311" duration="333000" />
+      <workItem from="1603892097800" duration="3791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="58" key="#com.healer.test_in_1.SpringIOC_1" timestamp="1603892298269">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="348" y="58" key="#com.healer.test_in_1.SpringIOC_1/0.0.1500.1000@0.0.1500.1000" timestamp="1603892298269" />
+    <state width="1458" height="378" key="GridCell.Tab.0.bottom" timestamp="1603896189374">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1458" height="378" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1603896189374" />
+    <state width="1458" height="378" key="GridCell.Tab.0.center" timestamp="1603896189374">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1458" height="378" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1603896189374" />
+    <state width="1458" height="378" key="GridCell.Tab.0.left" timestamp="1603896189374">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1458" height="378" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1603896189374" />
+    <state width="1458" height="378" key="GridCell.Tab.0.right" timestamp="1603896189374">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1458" height="378" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1603896189374" />
+    <state x="415" y="322" width="601" height="248" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603892035261">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="415" y="322" width="601" height="248" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1500.1000@0.0.1500.1000" timestamp="1603892035261" />
+  </component>
+</project>
